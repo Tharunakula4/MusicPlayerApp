@@ -40,6 +40,8 @@ python app.py
 - Flask
 - Modern web browser with Web Audio API support
 - API keys for Spotify and Genius
+- 
+![Screenshot 2025-05-25 012255](https://github.com/user-attachments/assets/be320dd0-8db3-4e49-a18b-3c69caafaf48)
 
 ## Technology Stack
 
